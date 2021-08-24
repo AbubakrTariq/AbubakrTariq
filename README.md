@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbubakrTariq
 - 👀 I’m interested in ... Machine Learning
-- 🌱 I’m currently learning ... Machine Learning
+- 🌱 I’m currently learning ... Machine Learning using Python
 - 💞️ I’m looking to collaborate on ... Web projects (react), Erp's, ML, Databases.
 - 📫 How to reach me ...
 
